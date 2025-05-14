@@ -29,13 +29,13 @@
 
 
 
-####BookDiary
+#### BookDiary
 
-####🧐 Project Overview
+#### 🧐 Project Overview
 Created a reading tracking application to allow users to record their reading habits in detail and monitor their progress.
 
 
-####😮 Key Features
+#### 😮 Key Features
 
 Calendar UI & Functionality
 - Integrated with a database (Storing book title, book color, and reading date).
