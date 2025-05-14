@@ -25,3 +25,30 @@
 5) 월간 독서량 / 연간 독서량 비교 화면
 
 - 공공 데이터 반영하여 ‘나’의 독서량과 비교
+
+
+
+
+####BookDiary
+
+####🧐 Project Overview
+Created a reading tracking application to allow users to record their reading habits in detail and monitor their progress.
+
+
+####😮 Key Features
+
+Calendar UI & Functionality
+- Integrated with a database (Storing book title, book color, and reading date).
+- 
+Book Registration Screen
+- Users can register books they are reading or have read.
+- 
+Reading Log Screen
+- Users can log the pages or specific excerpts they have read on a particular day.
+- 
+Registered Book List Screen
+- Displays a list of all books read or yet to be read.
+- 
+Monthly/Annual Reading Comparison Screen
+- Compares the user’s reading stats with public data to track and compare their reading progress.
+
